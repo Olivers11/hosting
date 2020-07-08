@@ -1,0 +1,8 @@
+#cuerpo{
+    overflow-x: hidden;
+}
+
+img{
+    width: 570px;
+    max-width: 100%;
+}
